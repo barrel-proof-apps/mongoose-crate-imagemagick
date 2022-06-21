@@ -29,7 +29,7 @@
     "imagemagick": "^0.1.3",
     "mkdirp": "^0.5",
     "mmmagic": "^0.5.3",
-    "mongoose-crate": "^1.0.0"
+    "mongoose-crate": "git+ssh://git@github.com:barrel-proof-apps/mongoose-crate.git#7926c29f8f64de43897ed8ba34fa738725e97c2e"
   },
   "devDependencies": {
     "coveralls": "^2.8",
